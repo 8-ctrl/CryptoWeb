@@ -38,6 +38,11 @@ const LineChart = ({ coinHistory, currentPrice, coinName }) => {
           },
         },
       ],
+      xAxes: [
+        {
+        type: 'time',
+      },
+      ],
     },
   };
 

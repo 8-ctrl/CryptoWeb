@@ -53,7 +53,15 @@ a:hover{
     width: 100%;
 }
 .logo{
-    margin:0 0 0 15px;
+    margin:10px 0 0 30px;
+    color:#024b3b;
+}
+.logo h1{
+    font-size: x-large;
+    color:#9acec3;
+}
+.logo :hover{
+    color:#2ea1a1;
 }
 .logo a{
    color: white;
